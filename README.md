@@ -1,4 +1,4 @@
-# 🛍️ Customer Segmentation App
+# 🛍️ Customer Segmentation App.
 
 ## 📌 Project Overview
 
